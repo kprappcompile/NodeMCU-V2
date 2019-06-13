@@ -31,4 +31,14 @@ USB-TTL included, plug&play
 FCC CERTIFIED WI-FI module(Coming soon)
 PCB antenna
 
+การติดตั้ง BoardNodeMCU V2
+
+1. ลง Driver CP2102 
+  สามารถ Download Driver ได้ที่ คลิก >>
+  
+2. ลง โปรแกรม Arduino IDE
+ สามารถ Download โปรแกรมที่ คลิก >>
+ 
+ 
+
 
